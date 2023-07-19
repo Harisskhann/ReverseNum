@@ -1,0 +1,8 @@
+D:\ReverseNum\ReverseDigit\bin\Debug\ReverseDigit.exe.config
+D:\ReverseNum\ReverseDigit\bin\Debug\ReverseDigit.exe
+D:\ReverseNum\ReverseDigit\bin\Debug\ReverseDigit.pdb
+D:\ReverseNum\ReverseDigit\obj\Debug\ReverseDigit.csproj.AssemblyReference.cache
+D:\ReverseNum\ReverseDigit\obj\Debug\ReverseDigit.csproj.SuggestedBindingRedirects.cache
+D:\ReverseNum\ReverseDigit\obj\Debug\ReverseDigit.csproj.CoreCompileInputs.cache
+D:\ReverseNum\ReverseDigit\obj\Debug\ReverseDigit.exe
+D:\ReverseNum\ReverseDigit\obj\Debug\ReverseDigit.pdb
